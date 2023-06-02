@@ -231,7 +231,7 @@ img {
 .error {
     background-color: rgb(185, 0, 0);
     text-align: center;
-    padding: 1rem;
+    padding: 0rem;
     color: var(--blanco);
     text-transform: uppercase;
 }
